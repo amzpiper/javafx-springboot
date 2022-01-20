@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ceadeal</groupId>
-    <artifactId>javafx-boot</artifactId>
+    <artifactId>javafx-springboot</artifactId>
     <version>1.0</version>
     <name>javafx-boot</name>
     <description>JavaFx with Spring Boot</description>
