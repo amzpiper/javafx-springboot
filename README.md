@@ -1,7 +1,5 @@
 ## JavaFX系列框架项目导航
-- **[JDK8 & JavaFX & SpringBoot](https://gitee.com/westinyang/javafx-boot)** `加持SpringBoot，项目示例，Maven打包插件带可执行程序`
-- [JDK8 & JavaFX](https://gitee.com/westinyang/javafx-start) `不依赖SpringBoot，项目示例，Maven打包插件带可执行程序`
-- [JDK11+ & JavaFX15](https://gitee.com/westinyang/javafx-jdk11-start)  
+- **[JDK8 & JavaFX & SpringBoot](https://github.com/amzpiper/javafx-springboot)** `加持SpringBoot，项目示例，Maven打包插件带可执行程序`
     - `使用 jlink 打包为精简版jvm，7z压缩后约16m左右`
     - `使用 GraalVM native-image 静态编译不依赖jvm，7z压缩后13m左右`
 
@@ -10,7 +8,7 @@
 ![LOGO](./src/main/resources/icon/icon.png)
 
 # 介绍
-JavaFx+SpringBoot快速开始脚手架，应用示例。非SpringBoot版本请移步至该仓库：[javafx-start](https://gitee.com/westinyang/javafx-start)
+JavaFx+SpringBoot快速开始脚手架，应用示例。
 
 > 参考资料：https://segmentfault.com/a/1190000014037443
 
